@@ -2,7 +2,7 @@
 The official implementation of the Uni-GroundDiff  paper in PyTorch.
 
 ## Revisiting Diffusion Models for Unified Zero-Shot Text-Guided Grounding in Images and Videos
-<img width="1349" height="746" alt="image" src="https://github.com/user-attachments/assets/03142038-d44e-490b-b8f9-2067cd7cecbc" />
+<img width="1089" height="600" alt="image" src="https://github.com/user-attachments/assets/938ef0e7-84ca-40f4-8c20-8f083722ce4e" />
 
 ## News
 * [2026-07-19] Code is released.
