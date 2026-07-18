@@ -108,7 +108,7 @@ datasets
 3. evaluate on PNG dataset
 
    ```
-       bash eval_png.sh
+       bash eval_davis17.sh
    ```
 
 ## VICAS
